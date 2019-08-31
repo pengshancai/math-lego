@@ -84,13 +84,46 @@ we could get the following pattern:
 
 You may also write other advanced Math-Lego pieces by yourself!
 
-### One step further into art !
+### Further into art 
 
 Try exploring other ways to use the Math-Lego on more challenging patterns!
 
-Here is one of my explorations! (A video could be found 
-[here]((https://www.youtube.com/watch?v=cLr12miy4nE&feature=youtu.be)))
+Here is one of my explorations! 
 
+This is an attampt to mimic the Chinese calligraphy of the Chinese character "晴" 
+(which stands for "sunny")
 
+Here is the a calligraphy by a human calligrapher:
+
+<img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/sunny.gif" alt="sun shine" width="360" align="middle"/>
+
+Here is the Math-Lego version:
+
+<img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/sunny%20function.png" alt="sun shine" width="360" align="middle"/>
+
+You may also see the video of how the painting was done [here]((https://www.youtube.com/watch?v=cLr12miy4nE&feature=youtu.be)))
+
+### Dependencies
+
+ * Python 3
+ * Numpy = 1.17.0
+ * Matplotlib = 3.1.1
+ * Pandas = 0.25.1
+
+### Running instructions
+
+Simply cd into the folder and do 
+
+```
+python sunny.py
+```
+
+### Contact
+
+Please contact me through pengshancai@umass.edu
+
+Finally, wish you have a sunny day!
+
+<img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/wish%20you%20have%20a%20sunny%20day.png" alt="sun shine" width="360" align="middle"/>
 
 
