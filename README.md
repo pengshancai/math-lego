@@ -57,6 +57,8 @@ It could also be applied to create a line with different curvature at different 
 You may customize your own Math-Lego pieces by tuning its 
 length, width, curvature and color.
 
+Please refer to code for details.
+
 By putting your customized Math-Lego pieces together, you could create 
 images as such
 
