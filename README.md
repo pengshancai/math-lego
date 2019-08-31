@@ -120,7 +120,7 @@ python sunny.py
 
 ### Contact
 
-Please contact me through pengshancai@umass.edu
+Please contact me via pengshancai@umass.edu
 
 Finally, wish you have a sunny day!
 
