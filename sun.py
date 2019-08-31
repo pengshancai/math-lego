@@ -15,7 +15,7 @@ x0 = (0.5, 0.5)
 w = 0.15
 divide = 10
 section = 360/divide
-colors = ['aqua', 'gold', 'green', 'lavender', 'lime', 'orange', 'wheat', 'yellowgreen', 'lightblue', 'red']
+colors = ['aquamarine', (1.0, 0.9, 0.05, 0.5), 'lightgreen', 'lavender', 'pink', 'orange', 'wheat', 'yellowgreen', 'lightblue', 'tomato']
 
 for i in range(divide):
     x = (x0[0] + w * np.cos(angle2radian(i * section)), x0[1] + w * np.sin(angle2radian(i * section)))

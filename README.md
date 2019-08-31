@@ -49,15 +49,23 @@ This requires the function of the line to be differentiable, which means the der
 The curvature of a **Linear Bender** is a linear function, 
 (i.e. the curvature gradually changes from a constant value to another constant value)
 Linear Bender could be applied to connect two Math-Lego pieces of different curvature, making the transformation look more smooth. 
+（As shown in the above 
 It could also be applied to create a line with different curvature at different points.
 
 ### Advanced Math-Lego Pieces
 
 In addition to simple Math-Lego pieces, 
 we also offer some advanced Math-Lego pieces.
+(For now only one, as the author has other works to do)
 The advanced Math-Lego pieces are made from simple Math-Lego pieces, 
 but encapsulated in a way that is easy to be called by users.
 
+<img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/sunshine.png" alt="sun shine" width="360" align="middle"/>
+
+As shown above, the sunshine Math-Lego piece is made from 
+a constant bender and a linear bender.
+
+If combining multiple sunshine Math-Lego pieces together 
 
 
 You may also write advanced Math-Lego pieces by yourself!
