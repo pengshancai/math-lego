@@ -101,7 +101,7 @@ Here is the Math-Lego version:
 
 <img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/sunny%20function.png" alt="sun shine" width="360" align="middle"/>
 
-You may also see the video of how the painting was done [here]((https://www.youtube.com/watch?v=cLr12miy4nE&feature=youtu.be)))
+You may also see the video of how the painting was done at https://www.youtube.com/watch?v=cLr12miy4nE&feature=youtu.be
 
 ### Dependencies
 
