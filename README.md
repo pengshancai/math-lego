@@ -44,9 +44,9 @@ It is usually applied to create a sharp curve.
 
 The curvature of a **Linear Bender** is a linear function, 
 (i.e. the curvature gradually changes from one constant value to another constant value)
-Linear Bender could be applied to connect two Math-Lego pieces of different curvature, making the transformation look more smooth. 
-(As shown in the above, the red line smoothly connects the blue and yellow line)
-It could also be applied to create a line with different curvature at different points.
+It could also be applied to gradually change the curvature of a line. 
+(As shown in the above, the red line transforms the straight blue line into a curly yellow line)
+
 
 ### Customize your own Math-Lego pieces
 
