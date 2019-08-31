@@ -8,7 +8,7 @@ from utils import *
 plt.figure(num='Math Lego')
 plt.xlim(0, 1)
 plt.ylim(0, 1)
-plt.title('The Sun')
+plt.title('The Sunshine')
 delta = 0.0
 
 x0 = (0.5, 0.5)
