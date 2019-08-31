@@ -124,6 +124,6 @@ Please contact me through pengshancai@umass.edu
 
 Finally, wish you have a sunny day!
 
-<img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/wish%20you%20have%20a%20sunny%20day.png" alt="sun shine" width="360" align="middle"/>
+<img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/wish%20you%20have%20a%20sunny%20day.png" alt="sun shine" width="600" align="middle"/>
 
 
