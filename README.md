@@ -3,7 +3,7 @@
 ### Build up your patterns using Lego pieces bsaed on Python！
 
 When I was in my teens, I used to have a big box of Lego. 
-Based on thousands of simple Lego pieces,  I build my world of 
+Based on thousands of simple Lego pieces,  I built my world of 
 knights, wizards, princesses，explorers, pirates and monsters.
 
 Decades later, as a computer science student, I am obsessed with the question: 
