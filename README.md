@@ -42,10 +42,6 @@ It is usually applied to create a sharp curve.
 
 <img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/paint%20linear.png" alt="Linear Bender" width="360" align="middle"/>
 
-A continuous line would usually look more beautiful it is smooth 
-(i.e. No abrupt change in curvature)
-This requires the function of the line to be differentiable, which means the derivative of the function is continuous. 
-
 The curvature of a **Linear Bender** is a linear function, 
 (i.e. the curvature gradually changes from one constant value to another constant value)
 Linear Bender could be applied to connect two Math-Lego pieces of different curvature, making the transformation look more smooth. 
