@@ -1,6 +1,6 @@
 # Math-Lego 迈思乐高
 
-### Build up your patterns using Lego pieces bsaed on Python！
+### Build up your dreams using Lego pieces bsaed on Python！
 
 When I was in my teens, I used to have a big box of Lego. 
 Based on thousands of simple Lego pieces,  I built my world of 
