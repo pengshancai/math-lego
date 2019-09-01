@@ -28,7 +28,7 @@ you may create complex and beautiful patterns on a **Matplotlib** "paper".
 <img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/paint_const.png" alt="Constant Bender" width="360" align="middle"/>
 
 **Constant Bender** let you create a curved line with a constant curvature. 
-You may adjust the curvature to create a more curved line.
+You may adjust the curvature to create a more curly line.
 
 #### Sin Bender
 <img src="https://raw.githubusercontent.com/pengshancai/math-lego/master/imgs/paint_sin.png" alt="Sin Bender" width="360" align="middle"/>
